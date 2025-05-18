@@ -15,3 +15,6 @@ int main()
   return 0;
 }
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my profolio
+- [ ] Introduce myself to the world
